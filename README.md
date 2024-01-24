@@ -7,7 +7,7 @@ Tela Inicial.
 </p>
 
 <p align="center">
-  <a href="" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
+  <a href="https://frontend-mentor-list.vercel.app/" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
 </p>
 
 
